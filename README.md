@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maymunasumaiya
 - 🌱 I’m currently learning JavaScript&PHP
-- 💞️ I’m looking to collaborate on github.com/Maymunasumaiya 
+- 💞️ I’m looking to collaborate on github.com/Maymunasumaiya
 - 📫 How to reach me maymunaakter@gmail.com
 - ⚡ Fun fact: without pain life is not enjoyable
